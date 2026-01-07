@@ -1,0 +1,25 @@
+{
+  "telemetry": {
+    "temperature": 21.5,
+    "humidity": 48,
+    "battery": 3.9,
+    "ts": "2024-06-01T12:00:00Z"
+  },
+  "events": {
+    "type": "button",
+    "button": "A",
+    "value": 1,
+    "ts": "2024-06-01T12:00:01Z"
+  },
+  "cmd": {
+    "action": "reboot",
+    "target": "all",
+    "ts": "2024-06-01T12:00:02Z"
+  },
+  "status": {
+    "online": true,
+    "battery": 3.9,
+    "ts": "2024-06-01T12:00:03Z"
+  }
+}
+
