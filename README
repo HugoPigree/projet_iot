@@ -2,4 +2,4 @@ Commande pour lancer le projet :
 
 projethetic_iot\bridge npm start
 
-projethetic_iot\front npm run dev 
+projethetic_iot\front npm run dev -- --host --port 5173
